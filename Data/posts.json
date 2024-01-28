@@ -1,0 +1,24 @@
+[
+  {
+    "Id": 1,
+    "Titulo": "YT",
+    "Contenido": "TY",
+    "FechaCreacion": "2024-01-28T00:00:00-03:00",
+    "Reaccion": {
+      "tipoDeReaccion": 1
+    },
+    "CantidadDeMegusta": 1,
+    "CantidadDeLecturas": 0
+  },
+  {
+    "Id": 3,
+    "Titulo": "123123212",
+    "Contenido": "1231564",
+    "FechaCreacion": "2024-01-28T00:00:00-03:00",
+    "Reaccion": {
+      "tipoDeReaccion": 0
+    },
+    "CantidadDeMegusta": 0,
+    "CantidadDeLecturas": 0
+  }
+]
